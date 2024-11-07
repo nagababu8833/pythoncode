@@ -1,4 +1,4 @@
-1. How to plan your VPC CIDR blocks?
+## 1. How to plan your VPC CIDR blocks?
 - Keywords: Non-overlapping IP ranges, CIDR notation, Subnet sizing (/24 vs. /26), Future scaling.
 
 2. How to segment subnets effectively?

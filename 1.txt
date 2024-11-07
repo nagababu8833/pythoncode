@@ -1,0 +1,20 @@
+1. How to plan your VPC CIDR blocks?
+- Keywords: Non-overlapping IP ranges, CIDR notation, Subnet sizing (/24 vs. /26), Future scaling.
+
+2. How to segment subnets effectively?
+- Keywords: Public vs. Private Subnets, Availability Zones (AZs), Subnet CIDR, Network isolation, High availability.
+
+3. How to control routing within the VPC?
+- Keywords: Route Tables, Targeting to IGW, Custom routes, VPC Peering, Route propagation, VPN Gateway (VGW).
+
+4. How to secure your VPC using Security Groups and NACLs?
+- Keywords: Inbound/Outbound Rules, Statefulness, SSH (port 22), RDS access (port 3306), Network ACLs (NACLs), Stateless filtering, Layered security.
+
+5. How to enable internet access in private subnets?
+- Keywords: NAT Gateway, Elastic IP, IGW, NAT Instance vs. NAT Gateway, High availability, Subnet association.
+
+6. How to connect VPCs across regions?
+- Keywords: VPC Peering, Inter-region Peering, Non-transitive connections, Private IP communication, Cross-account access, Latency considerations.
+
+7. How to monitor and log VPC traffic?
+- Keywords: VPC Flow Logs, CloudWatch Logs, Traffic Analysis, Network Interface (ENI) logging, Troubleshooting, Security audits.

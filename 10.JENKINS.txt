@@ -1,5 +1,5 @@
 Continuous Integration/Continuous Delivery(CI/CD):-
----------------------------------------------------------
+-----------------------------------------------------------------
 
 ~Continuous integration (CI) is a DevOps practice in which team members regularly commits their code changes to the version control repository, after which automated builds and tests are run. 
 ~Continuous delivery (CD) is a series of practices where code changes are automatically built, tested and deployed to production.

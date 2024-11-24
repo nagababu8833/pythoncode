@@ -11,6 +11,7 @@ teamcity
 circleCI
 TravisCI
 GoCD
+jenkins
 ******************************************************************************************
 
 Jenkins Installation on Linux:-
@@ -34,7 +35,7 @@ $ sudo apt-get install fontconfig openjdk-17-jre
 $ java -version
 $ sudo apt-get install jenkins
 
-~After installing Jenkins, the commands below can be used to stop, start and enable Jenkins to alwyas start up when the server boots…
+~After installing Jenkins, the commands below can be used to stop, start and enable Jenkins to alwyas start up when the server bootsâ€¦
 $ service jenkins status/stop/start/restart
 ~Next, open your browser and browse to the server hostname or IP address followed by port # 8080
 $ cat /var/lib/jenkins/secrets/initialAdminPassword

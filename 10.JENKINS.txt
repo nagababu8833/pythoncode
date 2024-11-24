@@ -11,7 +11,7 @@ teamcity
 circleCI
 TravisCI
 GoCD
-jenkins
+
 ******************************************************************************************
 
 Jenkins Installation on Linux:-
